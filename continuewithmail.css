@@ -1,0 +1,91 @@
+*{
+    background-color: white;
+}
+
+a{text-decoration: none;
+
+}
+
+#navbar{
+    height: 100px;
+    width: auto;
+    background-color:white;
+    display: flex;
+    flex-direction: row;
+    /* border: solid red 1px; */
+}
+    #logo{
+        height:100px;
+        width: 250px;
+        font-weight: bolder;
+        color: #6f2dbd;
+        font-size: 35px;
+        margin-left: 50px;
+
+    }
+
+    #search{
+        height:50px;
+        width: 75px;
+        color:#B298DC;
+        margin-left: 850px;
+        font-size: 20px;
+        margin-top: 10px;
+        /* border: solid red 1px; */
+
+    }
+
+    #publish{
+        height: 50px;
+        width: 150px;
+        color: #B298DC;
+        margin-left: 20px;
+        font-size: 20px;
+        margin-top: 10px;
+        /* border: solid red 1px; */
+    }
+
+    #form{
+        height: 80px;
+        width: 500px;
+        /* border: solid red 1px; */
+        margin-left: 410px;
+        padding-left: 100px;
+        font-size: 30px;
+        font-weight: 900;
+    }
+
+    #epass{
+        height: 60px;
+        width:520px;
+        /* border: solid red 1px; */
+        margin-left: 465px;
+    }
+    
+    input{
+        height: 50px;
+        width: 500px;
+        background-color:antiquewhite;
+        border-radius: 10px;
+        font-size: 20px;
+    }
+
+    button{
+        background-color: #6f2dbd;
+        color: white;
+        height: 30px;
+        width: 100px;
+        border-radius: 25px;
+    }
+
+    #login{
+        margin-top: 25px;
+        margin-left: 650px;
+    }
+
+
+
+   
+    
+    
+    
